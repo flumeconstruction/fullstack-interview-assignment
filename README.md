@@ -88,6 +88,7 @@ There is no single "right" architecture or design. Two candidates will produce v
 1. A working web application (frontend + backend)
 2. A filled-out version of the **Submission Notes** section below
 3. Your code in a Git repository (share a link or zip)
+4. If you have used any AI tool (Cursor / Claude / Windsurf / Copilot) share the complete conversation history
 
 The application should be runnable locally with minimal setup. Ideally a single command (or two — one for backend, one for frontend).
 
